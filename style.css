@@ -1,0 +1,14 @@
+/* Hoja de estilo personalizada
+
+    CSS: Cascading Style Sheet*/
+
+/* Selector de etiqueta */
+body {
+    background-color: #8969BD;
+    color: #FFC964;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    text-align: center;
+}
